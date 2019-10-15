@@ -1,0 +1,74 @@
+/* 
+ English.strings
+ TDLink
+ 
+ Copyright 2010 Taidoc. All rights reserved.
+ */
+
+
+
+// ***General used
+"String_GlucoseUnit_0"="mg/dL";
+"String_GlucoseUnit_1"="mmol/L";
+"String_BPUnit_0"="mmHg";
+"String_BPUnit_1"="KPa";
+"String_BPUnit_3"="bpm";
+"String_TPUnit_1"="°C";
+"String_TPUnit_2"="°F";
+
+"String_Weight_Unit_0"="kg";
+"String_Weight_Unit_1"="lb";
+
+
+"String_Root_Setting"="Setting";
+
+
+// ***AlertView
+"String_Alert_Ok"="OK";
+"String_Alert_Warning"="Warning";
+"String_Alert_Message"="Message";
+"String_Alert_Save"="Save";
+"String_Alert_Done"="Done";
+"String_Alert_Edit"="Edit";
+"String_Alert_Error"="Error";
+
+"String_Alert_Confirm"="Confirm";
+
+
+
+//ImportRootController
+"String_ImportRootController_RecordImported"="record imported";
+"String_ImportRootController_RecordsImported"="records imported";
+//"String_ImportRootController_Import"="Import";
+//SwamiN
+"String_ImportRootController_Import"="Message";
+
+//"String_ImportRootController_ImportFailed"="Import failed";
+//SwamiN
+"String_ImportRootController_ImportFailed"="Connection time out";
+"String_ImportRootController_NoRecordToImport"="No record to import";
+"String_ImportRootController_ImportSuccess"="Import successful";
+"String_ImportRootController_StatusText"="Importing";
+
+
+"String_RL_SYS"="Systolic Pressure";
+"String_RL_DIA"="Diastolic Pressure";
+
+
+
+"String_RootView_AskForSave"="Save and leave?";
+"String_Alert_Yes"="Yes";
+"String_Alert_No"="No";
+"String_Alert_Cancel"="Cancel";
+
+"String_Alert_Add"="Add";
+"String_Alert_Search"=" Search";
+"String_Alert_Stop"=" Stop";
+
+"String_Alert_Remove"=" Remove";
+
+
+
+
+
+
